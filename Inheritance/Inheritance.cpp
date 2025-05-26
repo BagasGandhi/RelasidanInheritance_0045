@@ -36,5 +36,6 @@ public:
 };
 
 int main() {
+    pelajar siswa1("andi laksono", "SMAN 1 Bantul");
     
 }
