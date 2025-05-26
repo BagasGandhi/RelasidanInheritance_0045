@@ -37,5 +37,6 @@ public:
 
 int main() {
     pelajar siswa1("andi laksono", "SMAN 1 Bantul");
-    
+    cout << siswa.perkenalan();
+    cout << "Hasil = " << siswa1.jumlah(10, 90) << endl;
 }
